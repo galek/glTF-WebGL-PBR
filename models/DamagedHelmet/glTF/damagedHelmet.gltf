@@ -160,13 +160,6 @@
 	],
 	"nodes": [
 		{
-			"name": "UnityGlTF_correctionMatrix",
-			"children": [
-				1
-			],
-			"matrix": [-1, 0, -8.742278E-08, 0, 0, 1, 0, 0, 8.742278E-08, 0, -1, 0, 0, 0, 0, 1]
-		},
-		{
 			"name": "node_damagedHelmet_-6514",
 			"mesh": 0,
 			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
